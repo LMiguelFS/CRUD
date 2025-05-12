@@ -49,7 +49,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <form action="{{route('autor.sto    re')}}" method="post">
+                    <form action="{{route('autor.store')}}" method="post">
                         @csrf
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Nombre </label>
