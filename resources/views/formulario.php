@@ -1,4 +1,4 @@
 <html>
-Este es el formulario
+Este es el formulario Admin
 
 </html>
